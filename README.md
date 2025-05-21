@@ -1,2 +1,1 @@
-# CognizantGenAI
-Cognizant Gen AI Externship
+# Cognizant Gen AI Externship
