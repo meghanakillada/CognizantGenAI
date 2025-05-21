@@ -1,9 +1,9 @@
-# Assignment 1: Exploring Python Concepts
+# Project 1: Eligible Elector
 
 ## Installation
 ```
 git clone https://github.com/meghanakillada/CognizantGenAI.git
-cd PythonAssignment1
+cd PythonProject1
 python -m venv venv
 source venv/bin/activate
 python main.py
