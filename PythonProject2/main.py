@@ -9,7 +9,7 @@ guess = int(input("Guess the number (between 1 and 100): "))
 # Count the Attempts
 attempts = 1
 
-while guess != number_to_guess:
+while guess != number_to_guess and attempts < 10:
     if guess < number_to_guess:
         print("Too low! Try again.")
     elif guess > number_to_guess:
@@ -17,4 +17,7 @@ while guess != number_to_guess:
     attempts += 1
     guess = int(input("Guess the number (between 1 and 100): "))
 
-print("Congratulations! You've guessed it in", attempts, "attempts!")
+if attempts == 10:
+    print("Game over! Better luck next time.")
+else:
+    print("Congratulations! You've guessed it in", attempts, "attempts!")
