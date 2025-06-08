@@ -1,4 +1,4 @@
-# Project 3: Password Strength Checker
+# Python Project 3: Password Strength Checker
 
 ## Installation
 ```

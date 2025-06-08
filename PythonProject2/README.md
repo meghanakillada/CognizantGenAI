@@ -1,4 +1,4 @@
-# Project 2: Number Guessing Game
+# Python Project 2: Number Guessing Game
 
 ## Installation
 ```

@@ -1,4 +1,4 @@
-# Project 1: Eligible Elector
+# Python Project 1: Eligible Elector
 
 ## Installation
 ```
