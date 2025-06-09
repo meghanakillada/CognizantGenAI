@@ -1,4 +1,4 @@
-# Assignment 2: Explore Loops in Python
+# Python Assignment 2: Explore Loops in Python
 
 ## Installation
 ```

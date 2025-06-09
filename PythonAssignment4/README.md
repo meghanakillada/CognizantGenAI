@@ -1,4 +1,4 @@
-# Assignment 4: Hands on Python Data Structures
+# Python Assignment 4: Hands on Python Data Structures
 
 ## Installation
 ```

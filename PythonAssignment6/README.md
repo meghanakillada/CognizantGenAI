@@ -1,4 +1,4 @@
-# Assignment 6: Check your Knowledge on Errors
+# Python Assignment 6: Check your Knowledge on Errors
 
 ## Installation
 ```

@@ -1,4 +1,4 @@
-# Assignment 3: Exploring String Methods
+# Python Assignment 3: Exploring String Methods
 
 ## Installation
 ```

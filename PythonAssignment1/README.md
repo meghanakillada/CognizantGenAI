@@ -1,4 +1,4 @@
-# Assignment 1: Exploring Python Concepts
+# Python Assignment 1: Exploring Python Concepts
 
 ## Installation
 ```

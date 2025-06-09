@@ -1,9 +1,9 @@
-# Python Assignment 5: About Parameters of Functions
+# Python Capstone Project: Personal Finance Tracker
 
 ## Installation
 ```
 git clone https://github.com/meghanakillada/CognizantGenAI.git
-cd PythonAssignment5
+cd PythonCapstoneProject
 python -m venv venv
 source venv/bin/activate
 python main.py
@@ -11,8 +11,8 @@ python main.py
 
 ## Project Structure
 ```
-├── main.py             # Main script to run the project
-└── README.md           # This file
+├── finance_tracker.py    # Main script to run the project
+└── README.md             # This file
 ```
 
 ## Requirements
