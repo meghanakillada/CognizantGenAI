@@ -41,10 +41,10 @@ def menu():
             print("4. Exit")
             choice = input("Choose an option: ")
             if choice == '1':
-                description = input("Enter expense description: ")
+                description = input("Enter expense description: ").strip()
                 if not description:
                     raise ValueError("Description cannot be empty.")
-                category = input("Enter category: ")
+                category = input("Enter category: ").strip()
                 if not category:
                     raise ValueError("Category cannot be empty.")
                 try:
