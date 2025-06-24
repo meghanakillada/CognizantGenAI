@@ -18,10 +18,11 @@ A simple command-line personal finance tracker that allows users to log expenses
 ## Installation
 ```
 git clone https://github.com/meghanakillada/CognizantGenAI.git
-cd PythonCapstoneProject
 python -m venv venv
 source venv/bin/activate
-python finance_tracker.py
+pip install -r requirements.txt
+cd PythonCapstoneProject
+python main.py
 ```
 
 ## Project Structure

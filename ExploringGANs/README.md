@@ -3,10 +3,11 @@
 ## Installation
 ```
 git clone https://github.com/meghanakillada/CognizantGenAI.git
-cd ExploringGANs
 python -m venv venv
 source venv/bin/activate
-python gan.ipynb
+pip install -r requirements.txt
+cd ExploringGANs
+python gan.py
 ```
 
 ## Project Structure

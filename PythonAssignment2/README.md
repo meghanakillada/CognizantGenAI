@@ -3,9 +3,10 @@
 ## Installation
 ```
 git clone https://github.com/meghanakillada/CognizantGenAI.git
-cd PythonAssignment2
 python -m venv venv
 source venv/bin/activate
+pip install -r requirements.txt
+cd PythonAssignment2
 python main.py
 ```
 

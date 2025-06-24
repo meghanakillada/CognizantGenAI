@@ -3,9 +3,10 @@
 ## Installation
 ```
 git clone https://github.com/meghanakillada/CognizantGenAI.git
-cd PythonProject6
 python -m venv venv
 source venv/bin/activate
+pip install -r requirements.txt
+cd PythonProject6
 python main.py
 ```
 
