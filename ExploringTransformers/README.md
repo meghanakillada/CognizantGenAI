@@ -23,6 +23,3 @@ python transformer.py
 ```
 pip install transformers torch
 ```
-
-# References
-[Hugging Face Pretrained BigGAN Model](https://github.com/huggingface/pytorch-pretrained-BigGAN)
